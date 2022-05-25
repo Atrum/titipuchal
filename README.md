@@ -1,5 +1,4 @@
-# Titipuchal
-## Un titipuchal de recetas
+# Un titipuchal de recetas
 
 Referencia de recetas chingonas para compartir.
 

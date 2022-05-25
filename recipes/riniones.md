@@ -11,3 +11,5 @@ Se limpian los riñones quitando toda la grasa blanca que tienen en el centro cu
 Es muy importante que no quede nada blanco en el medio para que no huelan fuerte.
  
 Listo.
+
+[Volver al menú](/README.md)
