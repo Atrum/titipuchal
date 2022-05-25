@@ -11,5 +11,3 @@ Listo ✅
 
 Se puede agregar mantequilla, mostaza o curry a la preparación para dar un sabor diferente.
 No se agrega agua a menos que la olla no permita la cocción,de ser  así agregar media taza.
-
-[Volver al menú](/README.md)

@@ -12,5 +12,3 @@
 
 ## Preparación:
 Se lava la carne y se pone en el fondo de la olla express. Se prepara una salsa  con los tomates, chiles, ajo, cebolla y cilantro. Se agrega a la carne. Se agregan a la olla las verdolagas limpias y sin rabos.  Se agrega una cucharadita de sal y otra de knor suiza. También las habas si las hay. Se tapa la olla express y se deja 20 minutos. Listo 
-
-[Volver al menú](/README.md)
