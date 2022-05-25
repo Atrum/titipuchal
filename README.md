@@ -1,5 +1,7 @@
 # Un titipuchal de recetas
 
+![image](https://media.giphy.com/media/jCOuICpkZRPyg/giphy.gif)  
+
 Referencia de recetas chingonas para compartir.
 
 - [Albóndigas](/recipes/albondigas.md)
