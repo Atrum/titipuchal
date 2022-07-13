@@ -16,3 +16,5 @@ Referencia de recetas chingonas para compartir.
 - [Carne de puerco en chile pasilla. ](/recipes/puerco_pasilla.md)
 - [Carne de puerco en salsa verde con verdolagas.](/recipes/puerco_verdolagas.md)
 - [Riñones](/recipes/riniones.md)
+- [Mole Verde](/recipes/mole_verde.md)
+- [Fideos con verdura estilo chino](/recipes/fideos_verdura.md)
