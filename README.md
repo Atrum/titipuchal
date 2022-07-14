@@ -18,3 +18,4 @@ Referencia de recetas chingonas para compartir.
 - [Riñones](/recipes/riniones.md)
 - [Mole Verde](/recipes/mole_verde.md)
 - [Fideos con verdura estilo chino](/recipes/fideos_verdura.md)
+- [Birria](/recipes/birria.md)
